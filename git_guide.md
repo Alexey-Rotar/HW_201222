@@ -46,7 +46,7 @@
 ## 5. Git-хостинг
 
 
-## 7. Ссылки
+## 6. Ссылки
 - Официальное [руководство](https://git-scm.com/doc)
 - Простое руководство: [Git за полчаса: руководство для начинающих](https://proglib.io/p/git-for-half-an-hour?ysclid=lbs915snt6314707562)
 - [Онлайн-тренажер Git](https://learngitbranching.js.org/)
