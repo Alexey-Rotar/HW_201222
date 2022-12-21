@@ -43,3 +43,9 @@
 ## 4. Ссылки
 - Официальное [руководство](https://git-scm.com/doc);
 - Простое руководство: [Git за полчаса: руководство для начинающих](https://proglib.io/p/git-for-half-an-hour?ysclid=lbs915snt6314707562).
+
+## 5.
+
+## 6. Git-хостинг
+
+Ряд сервисов предоставляют хостинг для Git-репозиториев, среди наиболее известных — GitHub, Codebase, SourceForge, SourceHut, Gitea, Bitbucket, GitLab.
