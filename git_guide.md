@@ -52,3 +52,7 @@
 
 Опции команд могут объединяться, например:
 - *git commit -am* (включает *git add .* и *git commit -m "тектс коммита"*)
+
+## 6. Git-хостинг
+
+Ряд сервисов предоставляют хостинг для Git-репозиториев, среди наиболее известных — GitHub, Codebase, SourceForge, SourceHut, Gitea, Bitbucket, GitLab.
